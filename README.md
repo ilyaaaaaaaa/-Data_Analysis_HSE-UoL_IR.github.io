@@ -14,10 +14,8 @@ Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**gr
   - Yaroslav Scoblikov, TA ([tg](https://t.me/Braye4))
 
 
-<ul><li><b>Grading</b></li></ul>
-
 <details>
-  <summary><ul><li><b>Grading</b></li></ul></summary>
+  <summary> &#8226 <b>Grading</b><summary>
   
 <ul>
 <li>Final grade = <ul>
