@@ -24,18 +24,56 @@ Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**gr
     -  Final Project (21%)
 
   The final score will be transformed to the HSE regular scale according to the following rule:
-  | grade 	| points 	|
-  |-------	|--------	|
-  | 1     	| 0-19   	|
-  |     2 	| 20-29  	|
-  |     3 	| 30-39  	|
-  |     4 	| 40-49  	|
-  |     5 	| 50-59  	|
-  |     6 	| 60-69  	|
-  |     7 	| 70-79  	|
-  |     8 	| 80-89  	|
-  |     9 	| 90-95  	|
-  |    10 	| 96-100 	|
+<table>
+<thead>
+  <tr>
+    <th>grade</th>
+    <th>points</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>0-19</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>20-29</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>30-39</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>40-49</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>50-59</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>60-69</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>70-79</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>80-89</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>90-95</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>96-100</td>
+  </tr>
+</tbody>
+</table>
 
 </details>
 
