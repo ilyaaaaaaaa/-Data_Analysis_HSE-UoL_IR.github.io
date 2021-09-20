@@ -7,13 +7,38 @@
   - ["Data Analysis in Economics and Finance"](https://www.hse.ru/en/edu/courses/339492557) 
   - ["Data Analysis in Politics and Journalism"](https://www.hse.ru/en/edu/courses/339493569)
 
-- **Final grade** = `0.21 * Home Assignment + 0.21 * Midterm Lab + 0.29 * Final Project + 0.29 * Final Lab`
-
 Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**group**](https://t.me/joinchat/9tWvbuL8O69hNTYy) for all the announcements
 - **Teachers**:
   - Ilya Abroskin - groups: 192, 193, 196 ([tg](https://t.me/iiiiilllllyyyyyaaaa)),
   - Anastasiya Maximovskaya - group 191 ([tg](https://t.me/anastasiyamaxx))
   - Yaroslav Scoblikov, TA ([tg](https://t.me/Braye4))
+
+<details>
+<summary>Grading</summary>
+  
+- **Final grade** = 
+  -  Home Assignment (21%)
+  -  Midterm Lab (29%)
+  -  Final Lab (29%)
+  -  Final Project (21%)
+
+The final score will be transformed to the HSE regular scale according to the following rule:
+| grade 	| points 	|
+|-------	|--------	|
+| 1     	| 0-19   	|
+|     2 	| 20-29  	|
+|     3 	| 30-39  	|
+|     4 	| 40-49  	|
+|     5 	| 50-59  	|
+|     6 	| 60-69  	|
+|     7 	| 70-79  	|
+|     8 	| 80-89  	|
+|     9 	| 90-95  	|
+|    10 	| 96-100 	|
+
+</details>
+
+
 
 
 ## Course Outline
