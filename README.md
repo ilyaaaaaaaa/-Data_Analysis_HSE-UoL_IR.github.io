@@ -82,6 +82,8 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 - Anastasiya Maximovskaya - group 191 ([tg](https://t.me/anastasiyamaxx))
 - Yaroslav Scoblikov, TA ([tg](https://t.me/Braye4))
 
+---
+
 ## Course Outline
 
 
