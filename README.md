@@ -10,10 +10,10 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
   
 <ul>
 <li>Final grade = <ul>
-<li>Home Assignment (21%)</li>
-<li>Midterm Lab (29%)</li>
-<li>Final Lab (29%)</li>
-<li>Final Project (21%)</li>
+<li>Home Assignment (21%) - after week 4</li>
+<li>Midterm Lab (29%) - after midterm week</li>
+<li>Final Lab (29%) - before exam week</li>
+<li>Final Project (21%) - the last class</li>
 </ul>
 </li>
 </ul>
