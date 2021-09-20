@@ -7,7 +7,7 @@
   - ["Data Analysis in Economics and Finance"](https://www.hse.ru/en/edu/courses/339492557) 
   - ["Data Analysis in Politics and Journalism"](https://www.hse.ru/en/edu/courses/339493569)
 
-Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**group**](https://t.me/joinchat/9tWvbuL8O69hNTYy) for all the announcements
+Please, **join** [channel](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [group](https://t.me/joinchat/9tWvbuL8O69hNTYy) for all the announcements
 - **Teachers**:
   - Ilya Abroskin - groups: 192, 193, 196 ([tg](https://t.me/iiiiilllllyyyyyaaaa)),
   - Anastasiya Maximovskaya - group 191 ([tg](https://t.me/anastasiyamaxx))
