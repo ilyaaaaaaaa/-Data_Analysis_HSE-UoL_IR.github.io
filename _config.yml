@@ -15,3 +15,5 @@ include:
 
 theme: jekyll-theme-slate
 markdown: kramdown
+layout: single
+classes: wide
