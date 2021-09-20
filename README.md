@@ -15,7 +15,7 @@ Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**gr
 
 
 <details>
-  <summary>Grading</summary>
+  <summary>**Grading**</summary>
   
   - **Final grade** = 
     -  Home Assignment (21%)
