@@ -17,11 +17,16 @@ Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**gr
 <details>
   <summary><b>Grading</b></summary>
   
-  - **Final grade** = 
-    -  Home Assignment (21%)
-    -  Midterm Lab (29%)
-    -  Final Lab (29%)
-    -  Final Project (21%)
+<ul>
+<li>Final grade = <ul>
+<li>Home Assignment (21%)</li>
+<li>Midterm Lab (29%)</li>
+<li>Final Lab (29%)</li>
+<li>Final Project (21%)</li>
+</ul>
+</li>
+</ul>
+
 
   The final score will be transformed to the HSE regular scale according to the following rule:
 <table>
