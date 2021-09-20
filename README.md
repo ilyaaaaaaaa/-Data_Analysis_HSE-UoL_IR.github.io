@@ -1,5 +1,6 @@
 # Data Analysis, Fall 2021
 
+## Main information
 - This is the course for HSE University and University of London Parallel Degree Programme in International Relations
 
 - Check the full **syllabus** for the particular courses:
