@@ -1,14 +1,12 @@
 # Data Analysis, Fall 2021
 
 ## Main information
-- This is the course for HSE University and University of London Parallel Degree Programme in International Relations
+This is the course for HSE University and University of London Parallel Degree Programme in International Relations
 
-- The full **syllabus** for the particular courses:
-  - ["Data Analysis in Economics and Finance"](https://www.hse.ru/en/edu/courses/339492557) 
-  - ["Data Analysis in Politics and Journalism"](https://www.hse.ru/en/edu/courses/339493569)
+The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www.hse.ru/en/edu/courses/339492557) and ["Data Analysis in Politics and Journalism"](https://www.hse.ru/en/edu/courses/339493569)
 
 <details>
-  <summary>The <b>grading</b> rules</summary>
+  <summary>The <b>grading</b> rules from the syllabus</summary>
   
 <ul>
 <li>Final grade = <ul>
@@ -77,12 +75,12 @@
 
 ---
 
--  **Join** [channel](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [group](https://t.me/joinchat/9tWvbuL8O69hNTYy) for all the announcements
+**Join** [channel](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [group](https://t.me/joinchat/9tWvbuL8O69hNTYy) for all the announcements
 
-- **Teachers**:
-  - Ilya Abroskin - groups: 192, 193, 196 ([tg](https://t.me/iiiiilllllyyyyyaaaa)),
-  - Anastasiya Maximovskaya - group 191 ([tg](https://t.me/anastasiyamaxx))
-  - Yaroslav Scoblikov, TA ([tg](https://t.me/Braye4))
+**Teachers**:
+- Ilya Abroskin - groups: 192, 193, 196 ([tg](https://t.me/iiiiilllllyyyyyaaaa)),
+- Anastasiya Maximovskaya - group 191 ([tg](https://t.me/anastasiyamaxx))
+- Yaroslav Scoblikov, TA ([tg](https://t.me/Braye4))
 
 ## Course Outline
 
