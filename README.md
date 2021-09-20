@@ -13,8 +13,12 @@ Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**gr
   - Anastasiya Maximovskaya - group 191 ([tg](https://t.me/anastasiyamaxx))
   - Yaroslav Scoblikov, TA ([tg](https://t.me/Braye4))
 
+
 <details>
+
+  
 <summary>Grading</summary>
+
   
 - **Final grade** = 
   -  Home Assignment (21%)
