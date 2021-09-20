@@ -15,30 +15,27 @@ Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**gr
 
 
 <details>
-
+  <summary>Grading</summary>
   
-<summary>Grading</summary>
+  - **Final grade** = 
+    -  Home Assignment (21%)
+    -  Midterm Lab (29%)
+    -  Final Lab (29%)
+    -  Final Project (21%)
 
-  
-- **Final grade** = 
-  -  Home Assignment (21%)
-  -  Midterm Lab (29%)
-  -  Final Lab (29%)
-  -  Final Project (21%)
-
-The final score will be transformed to the HSE regular scale according to the following rule:
-| grade 	| points 	|
-|-------	|--------	|
-| 1     	| 0-19   	|
-|     2 	| 20-29  	|
-|     3 	| 30-39  	|
-|     4 	| 40-49  	|
-|     5 	| 50-59  	|
-|     6 	| 60-69  	|
-|     7 	| 70-79  	|
-|     8 	| 80-89  	|
-|     9 	| 90-95  	|
-|    10 	| 96-100 	|
+  The final score will be transformed to the HSE regular scale according to the following rule:
+  | grade 	| points 	|
+  |-------	|--------	|
+  | 1     	| 0-19   	|
+  |     2 	| 20-29  	|
+  |     3 	| 30-39  	|
+  |     4 	| 40-49  	|
+  |     5 	| 50-59  	|
+  |     6 	| 60-69  	|
+  |     7 	| 70-79  	|
+  |     8 	| 80-89  	|
+  |     9 	| 90-95  	|
+  |    10 	| 96-100 	|
 
 </details>
 
