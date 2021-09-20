@@ -15,7 +15,7 @@ Please, **join** [channel](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [group](h
 
 
 <details>
-  <summary> &#8226 <b>Grading</b><summary>
+  <summary><b>Grading</b><summary>
   
 <ul>
 <li>Final grade = <ul>
