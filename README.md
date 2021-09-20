@@ -75,11 +75,9 @@
 
 </details>
 
+---
+
 -  **Join** [channel](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [group](https://t.me/joinchat/9tWvbuL8O69hNTYy) for all the announcements
-
-
-
-
 
 - **Teachers**:
   - Ilya Abroskin - groups: 192, 193, 196 ([tg](https://t.me/iiiiilllllyyyyyaaaa)),
