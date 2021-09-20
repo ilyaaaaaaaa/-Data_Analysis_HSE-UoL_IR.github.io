@@ -4,7 +4,7 @@
 ## Course Outline
 
 
-| class # 	| week   	| materials                                                                             	| topic                                                                                                                                 	|
+| # 	| week   	| materials                                                                             	| topic                                                                                                                                 	|
 |---------	|--------	|---------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------	|
 |       1 	| 20 Sep 	| [sem](https://nbviewer.jupyter.org/gist/ilyaaaaaaaa/596a262dd4bc6c172b0ba8b3144978e1) 	| Review of Python basics, concepts and syntax for data manipulation.                                                                   	|
 |       2 	| 27 Sep 	|                                                                                       	| Exploratory data analysis and descriptive statistics using Python packages (Pandas,  NumPy).                                          	|
