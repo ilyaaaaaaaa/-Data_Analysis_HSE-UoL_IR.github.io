@@ -1,5 +1,19 @@
 # Data Analysis, Fall 2021
 
+- This is the course for HSE University and University of London Parallel Degree Programme in International Relations
+
+- Check the full **syllabus** for the particular courses:
+  - ["Data Analysis in Economics and Finance"](https://www.hse.ru/en/edu/courses/339492557) 
+  - ["Data Analysis in Politics and Journalism"](https://www.hse.ru/en/edu/courses/339493569)
+
+- **Final grade** = `0.21 * Home Assignment + 0.21 * Midterm Lab + 0.29 * Final Project + 0.29 * Final Lab`
+
+Please, **join** [**channel**](https://t.me/joinchat/gSz1wkHIrmxhOGIy) and [**group**](https://t.me/joinchat/9tWvbuL8O69hNTYy) for all the announcements
+- **Teachers**:
+  - Ilya Abroskin - groups: 192, 193, 196 ([tg](https://t.me/iiiiilllllyyyyyaaaa)),
+  - Anastasiya Maximovskaya - group 191 ([tg](https://t.me/anastasiyamaxx))
+  - Yaroslav Scoblikov, TA ([tg](https://t.me/Braye4))
+
 
 ## Course Outline
 
