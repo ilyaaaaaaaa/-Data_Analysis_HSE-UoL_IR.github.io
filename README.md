@@ -86,6 +86,10 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 
 ---
 
+## Homework
+
+Homework 1 (parts 1,2,3) is [here](https://docs.google.com/document/d/1IBcjU1kV-99IvQJOqd12y5oCQdZ7YfsAYgn4PVq4f94/edit?usp=sharing)
+
 ## Course Outline
 
 |  # 	|  week  	| materials 	|          topic          	|
