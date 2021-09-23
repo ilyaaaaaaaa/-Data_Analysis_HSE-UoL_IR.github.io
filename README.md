@@ -88,17 +88,16 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 
 ## Course Outline
 
-
-| # 	| week   	| materials                                                                             	| topic                                                                                                                                 	|
-|---------	|--------	|---------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------	|
-|       1 	| 20 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem01_python-overview.ipynb) 	| Review of Python basics, concepts and syntax for data manipulation.                                                                   	|
-|       2 	| 27 Sep 	|                                                                                       	| Exploratory data analysis and descriptive statistics using Python packages (Pandas,  NumPy).                                          	|
-|       3 	|  4 Oct 	|                                                                                       	| Data visualization using matplotlib, seaborn, plotly                                                                                  	|
-|       4 	| 11 Oct 	|                                                                                       	| Hypothesis testing (t-test, z-test). <br>Confidence intervals.                                                                        	|
-|       5 	| 25 Oct 	|                                                                                       	| In-class Midterm Lab on full cycle of EDA and hypothesis testing.                                                                     	|
-|       6 	|  1 Nov 	|                                                                                       	| Linear regression. <br>Metrics for quality evaluation (MSE, RMSE, MAE, R2, etc).                                                      	|
-|       7 	|  8 Nov 	|                                                                                       	| k-Nearest Neighbours. <br>Model selection, validation and analysis. <br>Cross-validation, train-test split. Parameter tuning.         	|
-|       8 	| 15 Nov 	|                                                                                       	| Logistic regression. <br>Metrics for quality evaluation (Accuracy, Precision, Recall, AUC-ROC, etc).                                  	|
-|       9 	| 22 Nov 	|                                                                                       	| Stock prices visual analysis. Modeling the stock portfolio performance and evaluation. <br>OR<br>Text preprocessing. Topic modelling. 	|
-|      10 	|  6 Dec 	|                                                                                       	| In-class Project Presentations.                                                                                                       	|
-|      11 	| 13 Dec 	|                                                                                       	| In-class Final Lab.                                                                                                                   	|
+|  # 	|  week  	| materials 	|          topic          	|
+|:--:	|:------:	|:---------:	|:-----------------------:	|
+| 1  	| 20 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem01_python-overview.ipynb)       	| Review of Python basics 	|
+| 2  	| 27 Sep 	|           	| Practice class          	|
+| 3  	| 4 Oct  	|           	|                         	|
+| 4  	| 11 Oct 	|           	|                         	|
+| 5  	| 25 Oct 	|           	|                         	|
+| 6  	| 1 Nov  	|           	|                         	|
+| 7  	| 8 Nov  	|           	|                         	|
+| 8  	| 15 Nov 	|           	|                         	|
+| 9  	| 22 Nov 	|           	|                         	|
+| 10 	| 6 Dec  	|           	|                         	|
+| 11 	| 13 Dec 	|           	|                         	|
