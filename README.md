@@ -7,8 +7,6 @@ This is the course for HSE University and University of London Parallel Degree P
 
 The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www.hse.ru/en/edu/courses/339492557) and ["Data Analysis in Politics and Journalism"](https://www.hse.ru/en/edu/courses/339493569)
 
-All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTem64gvP_5dCQZcZAjtp1YEyAkS_Xo/edit#gid=0)
-
 <details>
   <summary>The <b>grading</b> rules from the syllabus</summary>
   
@@ -92,6 +90,8 @@ All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTe
 ## Homework
 
 Homework 1 (parts 1,2,3) is [here](https://docs.google.com/document/d/1IBcjU1kV-99IvQJOqd12y5oCQdZ7YfsAYgn4PVq4f94/edit?usp=sharing)
+
+All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTem64gvP_5dCQZcZAjtp1YEyAkS_Xo/edit#gid=0)
 
 ## Course Outline
 
