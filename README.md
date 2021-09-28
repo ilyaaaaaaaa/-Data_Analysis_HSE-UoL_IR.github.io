@@ -98,7 +98,7 @@ All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTe
 |  # 	|  week  	| materials 	|          topic          	|
 |:--:	|:------:	|:---------:	|:-----------------------:	|
 | 1  	| 20 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem01_python-overview.ipynb)       	| Review of Python basics 	|
-| 2  	| 27 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/class02_while_for_if/sem02_str%2C%20if%20else%2C%20while%2C%20for.ipynb)          	| Practice class          	|
+| 2  	| 27 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/class02_while_for_if/sem02_str%2C%20if%20else%2C%20while%2C%20for.ipynb)  [contest](https://contest.yandex.ru/contest/29618/problems/)        	| Practice class          	|
 | 3  	| 4 Oct  	|           	|                         	|
 | 4  	| 11 Oct 	|           	|                         	|
 | 5  	| 25 Oct 	|           	|                         	|
