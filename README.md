@@ -89,7 +89,8 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 
 ## Homework
 
-Homework 1 (parts 1,2,3) is [here](https://docs.google.com/document/d/1IBcjU1kV-99IvQJOqd12y5oCQdZ7YfsAYgn4PVq4f94/edit?usp=sharing)
+Homework 1 with Snakify (parts 1-3) is [here](https://docs.google.com/document/d/1IBcjU1kV-99IvQJOqd12y5oCQdZ7YfsAYgn4PVq4f94/edit?usp=sharing)
+Homework 2 with Datacamp (parts 0-5) is [here](https://docs.google.com/document/d/1Y5qces0hnsWdadSinPY0qno0RyI4RIn0dEJ9cGS-DbI/edit)
 
 All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTem64gvP_5dCQZcZAjtp1YEyAkS_Xo/edit#gid=0)
 
@@ -98,10 +99,10 @@ All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTe
 |  # 	|  week  	| materials 	|          topic          	|
 |:--:	|:------:	|:---------:	|:-----------------------:	|
 | 1  	| 20 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem01_python-overview.ipynb)       	| Review of Python basics 	|
-| 2  	| 27 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/class02_while_for_if/sem02_str%2C%20if%20else%2C%20while%2C%20for.ipynb),  [contest](https://contest.yandex.ru/contest/29618/problems/)        	| Practice class (str, for-loops)          	|
-| 3  	| 4 Oct  	| [problems-set](https://docs.google.com/document/d/19cYA2Ro2VG-BreZxHogEibLyGTql_A6eXLI4pEM2Cdg/edit)          	|          Practice class (for-loops, list, functions)               	|
-| 4  	| 11 Oct 	|     [problems-set](https://docs.google.com/document/d/1rNOgalY-sfvVUPK7S_rSvxbyI1ClWwDnCJ3Qz2vYptA/edit?usp=sharing), [solutions](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem04_snakify_leetcode.ipynb)     	|        Practice class (set, dict)                 	|
-| 5  	| 25 Oct 	|           	|                         	|
+| 2  	| 27 Sep 	| [sem](https://nbviewer.jupyter.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/class02_while_for_if/sem02_str%2C%20if%20else%2C%20while%2C%20for.ipynb),  [problems-set (YC)](https://contest.yandex.ru/contest/29618/problems/)        	| Practice class (str, for-loops)          	|
+| 3  	| 4 Oct  	| [problems-set (LC)](https://docs.google.com/document/d/19cYA2Ro2VG-BreZxHogEibLyGTql_A6eXLI4pEM2Cdg/edit)          	|          Practice class (for-loops, list, functions)               	|
+| 4  	| 11 Oct 	|     [problems-set (LC)](https://docs.google.com/document/d/1rNOgalY-sfvVUPK7S_rSvxbyI1ClWwDnCJ3Qz2vYptA/edit?usp=sharing), [solutions](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem04_snakify_leetcode.ipynb)     	|        Practice class (set, dict)                 	|
+| 5  	| 25 Oct 	| [problems-set (YC)](https://contest.yandex.ru/contest/30940/problems/)| Functions. Reviewing basics|
 | 6  	| 1 Nov  	|           	|                         	|
 | 7  	| 8 Nov  	|           	|                         	|
 | 8  	| 15 Nov 	|           	|                         	|
