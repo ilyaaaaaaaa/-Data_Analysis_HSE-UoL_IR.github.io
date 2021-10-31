@@ -103,9 +103,9 @@ All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTe
 | 3  	| 4 Oct  	| [problems-set (LC)](https://docs.google.com/document/d/19cYA2Ro2VG-BreZxHogEibLyGTql_A6eXLI4pEM2Cdg/edit)          	|          Practice class (for-loops, list, functions)               	|
 | 4  	| 11 Oct 	|     [problems-set (LC)](https://docs.google.com/document/d/1rNOgalY-sfvVUPK7S_rSvxbyI1ClWwDnCJ3Qz2vYptA/edit?usp=sharing), [solutions](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem04_snakify_leetcode.ipynb)     	|        Practice class (set, dict)                 	|
 | 5  	| 25 Oct 	| [problems-set (YC)](https://contest.yandex.ru/contest/30940/problems/)| Functions. Reviewing basics|
-| 6  	| 1 Nov  	|           	|                         	|
-| 7  	| 8 Nov  	|           	|                         	|
-| 8  	| 15 Nov 	|           	|                         	|
-| 9  	| 22 Nov 	|           	|                         	|
-| 10 	| 6 Dec  	|           	|                         	|
-| 11 	| 13 Dec 	|           	|                         	|
+| 6  	| 12 Nov  	|           	| Midterm |
+| 7  	| 19 Nov  	|           	|                         	|
+| 8  	| 26 Nov 	|           	|                         	|
+| 9  	| 3 Dec 	|           	|                         	|
+| 10 	| 10 Dec  	|           	|                         	|
+| 11 	| 17 Dec 	|           	|                         	|
