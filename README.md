@@ -88,11 +88,9 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 ---
 
 ## Homework
-
-Homework 1 with Snakify (parts 1-3) is [here](https://docs.google.com/document/d/1IBcjU1kV-99IvQJOqd12y5oCQdZ7YfsAYgn4PVq4f94/edit?usp=sharing)
-Homework 2 with Datacamp (parts 0-5) is [here](https://docs.google.com/document/d/1Y5qces0hnsWdadSinPY0qno0RyI4RIn0dEJ9cGS-DbI/edit)
-
-All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTem64gvP_5dCQZcZAjtp1YEyAkS_Xo/edit#gid=0)
+- Homework 1 with Snakify (parts 1-3) is [here](https://docs.google.com/document/d/1IBcjU1kV-99IvQJOqd12y5oCQdZ7YfsAYgn4PVq4f94/edit?usp=sharing)
+- Homework 2 with Datacamp (parts 0-5) is [here](https://docs.google.com/document/d/1Y5qces0hnsWdadSinPY0qno0RyI4RIn0dEJ9cGS-DbI/edit)
+- All the grade are [here](https://docs.google.com/spreadsheets/d/1MTfDHebUAxqkKTem64gvP_5dCQZcZAjtp1YEyAkS_Xo/edit#gid=0)
 
 ## Course Outline
 
