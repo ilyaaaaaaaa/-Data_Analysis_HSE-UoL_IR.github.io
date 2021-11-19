@@ -102,7 +102,7 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 | 4  	| 11 Oct 	|     [problems-set (LC)](https://docs.google.com/document/d/1rNOgalY-sfvVUPK7S_rSvxbyI1ClWwDnCJ3Qz2vYptA/edit?usp=sharing), [solutions](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem04_snakify_leetcode.ipynb)     	|        Practice class (set, dict)                 	|
 | 5  	| 25 Oct 	| [problems-set (YC)](https://contest.yandex.ru/contest/30940/problems/)| Functions. Reviewing basics|
 | 6  	| 12 Nov  	|           	| Midterm |
-| 7  	| 19 Nov  	|           	|                         	|
+| 7  	| 19 Nov  	| [pt1](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem071_pandas_intro.ipynb), [pt2](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem072_pandas_advanced.ipynb)| Pandas |
 | 8  	| 26 Nov 	|           	|                         	|
 | 9  	| 3 Dec 	|           	|                         	|
 | 10 	| 10 Dec  	|           	|                         	|
