@@ -104,6 +104,6 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 | 6  	| 12 Nov  	|           	| Midterm |
 | 7  	| 19 Nov  	| [pt1](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem071_pandas_intro.ipynb), [pt2](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem072_pandas_advanced.ipynb)| Pandas |
 | 8  	| 26 Nov 	| [pt1](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem081_visual_intro.ipynb), [pt2](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem082_seaborn.ipynb), [pt3](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem0831_problem-set.ipynb)	| Visualization 	|
-| 9  	| 3 Dec 	|           	|                         	|
-| 10 	| 10 Dec  	|           	|                         	|
-| 11 	| 17 Dec 	|           	|                         	|
+| 9  	| 3 Dec 	|           	| Linear Models |
+| 10 	| 10 Dec  	|           	| Linear Models, pt2|
+| 11 	| 17 Dec 	|           	| Project Presentation + Final |
