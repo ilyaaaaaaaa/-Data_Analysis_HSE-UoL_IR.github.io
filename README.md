@@ -103,7 +103,7 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 | 5  	| 25 Oct 	| [problems-set (YC)](https://contest.yandex.ru/contest/30940/problems/)| Functions. Reviewing basics|
 | 6  	| 12 Nov  	|           	| Midterm |
 | 7  	| 19 Nov  	| [pt1](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem071_pandas_intro.ipynb), [pt2](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem072_pandas_advanced.ipynb)| Pandas |
-| 8  	| 26 Nov 	| [tutorial](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem081_visual_intro.ipynb), [seaborn-overview](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem082_seaborn.ipynb), [problem set](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem083_problem-set.ipynb)	| Visualization 	|
+| 8  	| 26 Nov 	| [tutorial](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem081_visual_intro.ipynb), [seaborn-overview](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem082_seaborn-overview.ipynb), [problem set](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem083_problem-set.ipynb)	| Visualization 	|
 | 9  	| 3 Dec 	|           	| Linear Models |
 | 10 	| 10 Dec  	|           	| Linear Models, pt2|
 | 11 	| 17 Dec 	|           	| Project Presentation + Final |
