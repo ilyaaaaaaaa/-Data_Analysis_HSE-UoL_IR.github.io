@@ -104,6 +104,6 @@ The full **syllabus** for ["Data Analysis in Economics and Finance"](https://www
 | 6  	| 12 Nov  	|           	| Midterm |
 | 7  	| 19 Nov  	| [pt1](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem071_pandas_intro.ipynb), [pt2](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem072_pandas_advanced.ipynb)| Pandas |
 | 8  	| 26 Nov 	| [tutorial](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem081_visual_intro.ipynb), [seaborn-overview](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem082_seaborn-overview.ipynb), [problem set](https://github.com/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/sem083_problem-set.ipynb)	| Visualization 	|
-| 9  	| 3 Dec 	|           	| Linear Models |
+| 9  	| 3 Dec 	| [linear reg](https://nbviewer.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/9-1_linear_regression.ipynb), [knn](https://nbviewer.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/9-2_knn_model_training.ipynb), [validation](https://nbviewer.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/9-3_model_evaluation.ipynb), [practice](https://nbviewer.org/github/ilyaaaaaaaa/DA_HSE-UoL_IR_21-Fall/blob/main/sems/9-4_practice.ipynb | Linear Models |
 | 10 	| 10 Dec  	|           	| Linear Models, pt2|
 | 11 	| 17 Dec 	|           	| Project Presentation + Final |
